@@ -233,7 +233,7 @@ h1 {
   color: var(--text);
   font-size: 2rem;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .abstract-content {
@@ -261,7 +261,7 @@ h1 {
   color: var(--text);
   font-size: 2rem;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .overview-figure {
@@ -328,7 +328,7 @@ h1 {
   color: var(--text);
   font-size: 2rem;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .pipeline-figure {
@@ -384,7 +384,7 @@ h1 {
   color: var(--text);
   font-size: 2rem;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .task-level {
@@ -457,7 +457,7 @@ h1 {
   color: var(--text);
   font-size: 2rem;
   line-height: 1.2;
-  text-align: center;
+  text-align: left;
 }
 
 .citation-block {
