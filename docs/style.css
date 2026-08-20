@@ -77,10 +77,22 @@ h1 {
 }
 
 .publication-authors sup,
-.publication-affiliations sup {
+.publication-affiliations sup,
+.author-notes sup {
   margin-left: 1px;
   font-size: 0.68em;
   vertical-align: super;
+}
+
+.author-notes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px 18px;
+  margin-top: 6px;
+  color: #555555;
+  font-size: 0.88rem;
+  line-height: 1.45;
 }
 
 .resource-links {
